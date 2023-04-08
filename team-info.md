@@ -513,7 +513,7 @@ G1G2是一个ZK-Rollup As a Service 平台。G1G2具有一下优点：
 ### 1.9 是否基于以前项目
 完整的Rollup as a Service分为两个部分。
   1. rollup protocol
-  2. server和eb页面让用户完成创建rollup过程。
+  2. server和web页面让用户完成创建rollup过程。
 
 本次hackathon 我和Edward只开发了第二部分，包括go server，web页面还有一些部署contract脚本。
 
