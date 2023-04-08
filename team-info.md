@@ -482,7 +482,7 @@ https://github.com/Silence1017/EtherWatchdog_Dapp/blob/main/EtherWatchdog.mp4
 
 # 35 g1g2
 ### 1.1 图片
-
+![g1g2.png](https://github.com/g1g2-lab/ethbeijing/raw/main/images/g1g2.png)
 ### 1.2 所选赛道
 Public Good
 ### 1.3 简介
